@@ -1,0 +1,12 @@
+{ "invités" : [
+                    { "nom" : "Marie Claude",
+                       "table" : 1, 
+                       "repas" : "Végétarien"
+                   },
+                  { "nom" : "Jean-Pierre Couchot",
+                     "table" : 1,
+                      "repas" : "Poisson"
+                  }
+                 ....
+              ]
+}
